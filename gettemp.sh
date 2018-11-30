@@ -1,2 +1,3 @@
 
-sudo python /home/pi/pi3project/test_DHT11.py
+sudo python /home/pi/personal/Ch11_3_3.py &
+sudo python /home/pi/personal/breathing_lights.py

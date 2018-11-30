@@ -9,6 +9,8 @@ STEPS:
 
 2.create gettemp.sh
 
-3.The last step is :sudo nano ~/.config/lxssession/LXDE-pi/autostart
+3.create breathing_lights.py ( add two LEDs flashing alternatively)
+
+4.The last step is :sudo nano ~/.config/lxssession/LXDE-pi/autostart
   Then add @sh /home/pi/pi3project/gettemp.sh
    (refer to ../raspberry/tutorial/shell/ )
